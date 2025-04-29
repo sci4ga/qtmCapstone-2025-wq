@@ -1,9 +1,7 @@
 # qtmCapstone-2025-wq
 
 ## Contributing Members
-Keerthy Rangan
-Claire Zegger
-Hansen Xu
+Keerthy Rangan, Claire Zegger, Hansen Xu
 
 ## Featured Notebooks/Analysis/Deliverables
 * [Data Story](https://storymaps.arcgis.com/stories/100c1d6313e843b9b59f5f519ce65049)

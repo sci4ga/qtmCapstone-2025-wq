@@ -36,7 +36,7 @@ The purpose of this project is ________. (Describe the main goals of the project
 ## Getting Started
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
 2. Download the [data Sets](https://sci4ga.sharepoint.com/sites/ScienceforGeorgiaInc/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FScienceforGeorgiaInc%2FShared%20Documents%2FGeneral%2FPROGRAMS%2FDATA%20FOCUSED%20PROGRAMS%2FDATA%20REPOSITORY%2FQTM%20Spring%202025%2FWaterQuality%2FCleanedDatasets&viewid=3bfa4f5a%2Da38d%2D4219%2Db156%2D622e67e3eb53&p=true&ga=1&LOF=1) from the Science4GA repository.
-5. Data processing/transformation scripts are being kept [Analysis Code](https://github.com/sci4ga/qtmCapstone-2025-wq/tree/main/analysis%20code)
+5. Data processing/transformation scripts are being kept in this folder: [Analysis Code](https://github.com/sci4ga/qtmCapstone-2025-wq/tree/main/analysis%20code)
 
 
 

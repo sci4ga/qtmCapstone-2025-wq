@@ -27,7 +27,8 @@ Our project focused on what water quality looks like throughout Georgia, with sp
 * tidyverse
 * modelr
 * ggplot2
-* ggpubr 
+* ggpubr
+* forcats
 
 ### Python Packages
 * Pandas
